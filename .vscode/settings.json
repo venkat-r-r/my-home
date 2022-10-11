@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp"
+    },
+    "cSpell.words": [
+        "SSID"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}
